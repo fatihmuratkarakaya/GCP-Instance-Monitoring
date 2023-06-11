@@ -1,0 +1,9 @@
+{
+  "name": "monitorinstancesongcp",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/compute": "^3.9.1",
+    "@google-cloud/functions-framework": "^3.2.0",
+    "@slack/webhook": "^6.1.0"
+  }
+}
