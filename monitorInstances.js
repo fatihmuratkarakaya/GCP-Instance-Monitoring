@@ -71,4 +71,5 @@ functions.http('monitorInstances', (req, res) => {
                 res.status(500).send("An unexpected error occurred");
             })
     })();
+
 });
