@@ -13,7 +13,7 @@ This is a Node.js script that monitors Google Cloud Platform (GCP) Compute Engin
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/fatihmuratkarakaya/GCP-Instance-Monitoring.git
 
 
 2. Install the required packages:
