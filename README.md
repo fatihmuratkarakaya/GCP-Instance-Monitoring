@@ -4,7 +4,7 @@ This is a Node.js script that monitors Google Cloud Platform (GCP) Compute Engin
 
 ## Prerequisites
 
-- Node.js (version X.X.X)
+- Node.js (version 18.X)
 - `@google-cloud/compute` package
 - `@google-cloud/functions-framework` package
 - `@slack/webhook` package
@@ -54,4 +54,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 
 This project is licensed under the [MIT License](LICENSE).
 
-Make sure to replace X.X.X with the appropriate version number of Node.js in the "Prerequisites" section
